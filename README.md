@@ -2,7 +2,7 @@
 This folder contains my solutions for the the book How to prove it by Velleman.
 
 ### About PDF
-It contains images of work in order but is not very nicely formatted or colorful though understandale. A new section starting is written on top with same pen used for writing actual work and a new question is just written on left side followed by a parenthesis.
+It contains images of work in order but is not very nicely formatted or colorful though understandale. A new section starting is written on top with same pen used for writing actual work and a new question is just written on left side followed by a parenthesis. From chapter 3, when proofs start, the left side of page will show givens and right side will show goals (to prove). As goal is broken down or other givens are added, they are similarly added to left side till the final goal is proved.
 
 ### A Note on solution manual previously avaialable
 There are solution manuals that you can find on paid websites and one solution manual is also available for free if you search a bit but those contain final answers (lines of proof writing) while these solutions contain the scratch work and occasionaly some intuitions might be written along the way. So these are more like the process while the other is the final answer. Its recommended you use both to verify for a question you are stuck on.
