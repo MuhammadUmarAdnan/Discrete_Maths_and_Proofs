@@ -1,0 +1,1 @@
+The Hammock's Book of proof provided answers to odd numbered questions so I have till included even number questions only.
