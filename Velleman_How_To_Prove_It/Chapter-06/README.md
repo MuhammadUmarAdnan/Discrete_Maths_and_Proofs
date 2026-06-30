@@ -1,0 +1,9 @@
+# Chapter 6: Mathematical Induction
+
+This folder contains a targeted selection of core exercises demonstrating the logical foundations of induction. 
+
+### Current Coverage:
+* **Section 6.1:** 1, 2, 3, 4, 6, 8, 9, 19
+* **Sections 6.2:** 1, 3, 5, 7, 12, 13
+
+*Note: This is an active archive. Additional exercises from these sections will be appended non-linearly over time as I revisit them for review.*
